@@ -1,3 +1,12 @@
+# Knuth Computer Musings & Algorithms Collection
+
+This repository contains clean, self-contained Java implementations of the core algorithms, models, and mathematical demonstrations presented throughout Donald Knuth’s lecture series, including his annual *Christmas Tree Lectures* and *Computer Musings* talks.
+
+---
+
+## 📁 Project Structure & Module Overview
+
+```text
 .
 ├── 01_graph_algorithms/
 │   ├── HamiltonianPath.java          # Backtracking solution for Hamiltonian paths
